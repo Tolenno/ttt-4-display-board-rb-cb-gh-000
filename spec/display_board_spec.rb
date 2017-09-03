@@ -185,8 +185,8 @@ describe "#display_board in 'lib/display_board.rb" do
 
       # *** Comment the line below by adding a # at the line start ***
       #expect(true).to be(true)
-      board = ["O", "O", "O", "O", "O", "O", "O", "O", "O" ]
-      
+      board = ["O", "O", "O", "O", "O", "O", "O", "O", "O"]
+
     end
   end
 end
