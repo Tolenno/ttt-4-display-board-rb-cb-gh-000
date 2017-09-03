@@ -10,6 +10,7 @@ def display_board(board = [" ", " ", " ", " ", " ", " ", " ", " ", " "])
   puts rows[4]
 end
 
-turn = gets
+one_turn = gets
+
 
 puts display_board("X")
