@@ -5,7 +5,6 @@
 
 def display_board(board)
   rows = ["   |   |   ", "-----------", "   |   |   ", "-----------", "   |   |   "]
-
   rows[0]
   rows[1]
   rows[2]
