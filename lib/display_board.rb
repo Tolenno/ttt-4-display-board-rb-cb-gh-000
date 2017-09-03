@@ -10,3 +10,5 @@ def display_board
   rows[3]
   rows[4]
 end
+
+display_board
