@@ -3,7 +3,7 @@
 
  = ["   |   |   ", "-----------", "   |   |   ", "-----------", "   |   |   "]
 
-def display_board(rows)
+def display_board(board)
   rows[0]
   rows[1]
   rows[2]
