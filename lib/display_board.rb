@@ -10,9 +10,7 @@ def display_board(board = [" ", " ", " ", " ", " ", " ", " ", " ", " "])
   puts rows[4]
 end
 
-puts "Player one's turn. Enter square number:"
-one_turn = gets #expect number 1-9
+#puts "Player one's turn. Enter square number:"
+#one_turn = gets #expect number 1-9
 
-
-
-puts display_board("X")
+#puts display_board("X")
