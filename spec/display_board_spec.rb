@@ -187,6 +187,9 @@ describe "#display_board in 'lib/display_board.rb" do
       #expect(true).to be(true)
       board = ["O", "O", "O", "O", "O", "O", "O", "O", "O"]
 
+      output = capture_puts{ display_board(board) } if defined?(display_board)
+      rows = output.split("\n")
+
     end
   end
 end
