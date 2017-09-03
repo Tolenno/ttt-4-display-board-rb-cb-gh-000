@@ -4,7 +4,7 @@
  = ["   |   |   ", "-----------", "   |   |   ", "-----------", "   |   |   "]
 
 def display_board(board)
-  rows[0]
+  puts rows[0]
   rows[1]
   rows[2]
   rows[3]
