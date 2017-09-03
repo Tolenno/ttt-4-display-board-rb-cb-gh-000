@@ -10,7 +10,7 @@ def display_board(board = [" ", " ", " ", " ", " ", " ", " ", " ", " "])
   puts rows[4]
 end
 
-puts "Player one's turn"
+puts "Player one's turn. Enter:"
 one_turn = gets
 
 
