@@ -9,4 +9,4 @@ def display_board(rows = ["   |   |   ", "-----------", "   |   |   ", "--------
   rows[4]
 end
 
-display_board
+puts display_board
