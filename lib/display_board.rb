@@ -11,7 +11,7 @@ def display_board(board = [" ", " ", " ", " ", " ", " ", " ", " ", " "])
 end
 
 puts "Player one's turn. Enter square number:"
-one_turn = gets
+one_turn = gets #expect number 1-9
 
 
 
